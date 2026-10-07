@@ -1,0 +1,6 @@
+{
+  "name": "Undangan Walimatussafar Umroh KH. Badruzzaman & Nyai Rokibah",
+  "description": "Website undangan digital islami estetis Walimatussafar Umroh KH. Badruzzaman & Nyai Rokibah di Pondok Pesantren Raudhotul Hidayah Kaplongan Lor, Karang Ampel, Indramayu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
